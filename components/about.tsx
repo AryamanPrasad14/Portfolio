@@ -20,7 +20,7 @@ export function About() {
             </p>
 
             <p className="text-lg leading-relaxed">
-              As an <strong>Intern at Trusnetix Technologies</strong>, I've gained hands-on experience building
+              As an <strong>Software Developer Intern at Trusnetix Technologies</strong>, I've gained hands-on experience building
               scalable web applications, working with cutting-edge technologies, and collaborating with cross-functional
               teams to deliver high-quality solutions.
             </p>
