@@ -15,7 +15,10 @@ export function Hero() {
   if (!mounted) return null;
 
   return (
-    <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
+    <section
+      id="home"
+      className="min-h-screen flex items-center justify-center relative overflow-hidden"
+    >
       {/* Background gradient */}
       <div className="absolute inset-0 bg-gradient-to-br from-primary/10 via-background to-accent/10" />
 
@@ -103,7 +106,6 @@ export function Hero() {
                 <Facebook className="h-6 w-6" />
               </a>
             </Button>
-            {/* X (Twitter) Logo */}
             <Button variant="ghost" size="icon" className="h-12 w-12" asChild>
               <a
                 href="https://x.com/aryaman_prasad?t=k8OkRie2F3X7fvZGL0lUdw&s=09"
