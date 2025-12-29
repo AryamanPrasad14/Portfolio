@@ -52,7 +52,7 @@ export function About() {
                   <h3 className="font-semibold text-lg">Experience</h3>
                 </div>
                 <p className="text-muted-foreground">
-                  Intern
+                  Software Developer Intern
                   <br />
                   Trusnetix Technologies Pvt. Ltd.
                 </p>
