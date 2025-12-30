@@ -36,7 +36,7 @@ export function Hero() {
           </h1>
 
           <p className="text-xl sm:text-2xl text-muted-foreground mb-4">
-            Software Developer Intern | Full-Stack Developer
+            Software Engineer Intern | Full-Stack Developer
           </p>
 
           <p className="text-lg sm:text-xl text-muted-foreground mb-8">

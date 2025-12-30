@@ -15,7 +15,7 @@ export function Experience() {
           <CardHeader>
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
               <div>
-                <CardTitle className="text-2xl">Software Developer Intern</CardTitle>
+                <CardTitle className="text-2xl">Software Engineer Intern</CardTitle>
                 <CardDescription className="text-lg font-medium text-primary">
                   Trusnetix Technologies Pvt. Ltd.
                 </CardDescription>
